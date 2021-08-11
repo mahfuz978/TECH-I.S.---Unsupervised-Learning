@@ -1,4 +1,4 @@
-# TECH-I.S.---Unsupervised-Learning
+Unsupervised-Learning
 # Unsupervised Learning 
 
 ## [Step 4-2-1 : Clustering](01_Clustering)
