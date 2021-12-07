@@ -1,4 +1,3 @@
-Unsupervised-Learning
 # Unsupervised Learning 
 
 ## [Step 4-2-1 : Clustering](01_Clustering)
@@ -11,6 +10,13 @@ Unsupervised-Learning
 
 - PCA in Detail 
 - Assignment
+
+## [Step 4-2-3 : DB Scan](03_DBScan)
+
+- Introduction
+- Density-Based Clustering Algorithms
+- Parameter Estimation
+- Homework
 
 ---
 
